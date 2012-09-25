@@ -21,7 +21,7 @@ Or install it yourself as:
 ## Usage
 
 ```bash
-$ echo a=1 foo=bar name=michael | whittle
+$ echo app=test n=1 foo=bar name=michael | whittle
 ```
 
 ## Contributing
